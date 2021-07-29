@@ -1,0 +1,14 @@
+
+body
+{
+background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+}
+.te
+{
+font-weight:bold;
+text-align:center;
+font-size:15pt;
+text-decoration:underline;
+font-family:Copperplate Gothic Light;
+
+}

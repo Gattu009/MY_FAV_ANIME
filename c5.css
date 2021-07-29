@@ -1,0 +1,33 @@
+.lp:link {
+  color: green;
+}
+
+.lp:visited {
+  color: orange;
+}
+
+
+.lp:hover {
+  color: red;
+}
+
+
+.lp:active {
+  color: yellow;
+}
+body
+{
+background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+} 
+
+
+
+
+.lp
+{
+font-weight:bold;
+
+font-size:15pt;
+text-decoration:underline;
+font-family:Copperplate Gothic Light;
+}

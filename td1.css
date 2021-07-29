@@ -1,0 +1,21 @@
+body
+{
+background-color:pink;
+}
+
+.ta1
+{
+background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+}
+
+
+.kl:focus
+{
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+.po:hover
+{
+background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+
